@@ -20,7 +20,7 @@ const HomeIndex = () => {
               captivate, impress, and inspire. Whether orchestrating an intimate
               gathering or a grand celebration, our team of dedicated
               professionals brings creativity, precision, and elegance to every
-              endeavor.
+              endeavor. thanks
             </p>
           </div>
         </div>
